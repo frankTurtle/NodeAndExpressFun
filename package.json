@@ -20,6 +20,8 @@
     "express": "^4.16.2"
   },
   "devDependencies": {
-    "eslint-config-google": "^0.9.1"
+    "eslint-config-google": "^0.9.1",
+    "gulp": "^3.9.1",
+    "wiredep": "^4.0.0"
   }
 }
