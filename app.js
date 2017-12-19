@@ -9,7 +9,7 @@ app.use(express.static('src/views'))
 
 app.get('/', function (req, res) {
     res.send('hellow!');
-})
+});
 
 app.listen(port, function (err) {
     console.log('running server on port ' + port)
